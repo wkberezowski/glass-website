@@ -143,6 +143,10 @@ main {
   border-radius: 2rem;
 }
 
+.status input:focus {
+  outline: 1px solid #6cdbeb;
+}
+
 .games {
   display: flex;
   flex-direction: column;
